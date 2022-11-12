@@ -1,0 +1,79 @@
+########################################
+text sketch of the bits ^ beans page
+########################################
+
+colors : 
+main : #949D6A #637244
+shades: #C2C7A9
+
+##############################
+Section HERO
+
+Krakowska Kawiarnia prowadzona przez pasjonatów...
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus congue diam et dui imperdiet, eget bibendum elit tincidunt. 
+
+Zobacz więcej ->
+
+##############################
+Logos
+
+Partnerzy:
+
+##############################
+About 
+
+- Bits^Beans to pit stop dla aktywnych i zabieganych krakowian.
+U nas w okamgnieniu dostaniecie wyższej jakości napoje, serwowane na miejscu oraz w opcji to-go. Herbata, kawa, matcha czy masala - zadowolimy nawet te najbadziej wymagające podniebienia!
+
+##############################
+Testimonials
+
+Yevheniia
+- Good place, very good stuff and nice people
+
+Christina
+- A perfect place to get a high quality drinks. Moreover perfect team! Absolutely worth of visiting while being in Kraków.
+
+Albina
+- Wspaniałe miejsce, jest bardzo klimatycznie. Muzyka, wystrój, bardzo mili bariści dopełniają to miejsce. Ogromny wybór kaw i herbat.
+Z niecierpliwością czekam na matchę na pomarańczowym soku.
+Polecam z całego serca!
+
+Maksym
+- Obsługa na najwyższym poziomie, jakość kaw i herbat jest mega.
+Polecam.
+
+
+##############################
+Contact
+
+Wpadnij do nas na kawę i nie tylko, bo dla nas masz zawsze po drodze!
+
+## Open hours
+
+pn - pt 09:00 - 19:00
+so - nd 10:00 - 19:00
+święta 10:00 - 17:00
+
+##############################
+Footer
+
+## Contact information
+
+Adress: Garbarska 12, 31-131 Kraków
+Phone: 600-500-400
+Email: hello@bitsandbeans.com
+
+Social profiles: instagram, facebook, linktree
+
+##############################
+Sections
+
+- Navigation
+- Hero 
+- Logos 
+- About
+- Testimonials
+- Contact
+- Footer
